@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyCalorieDiary.Tests/MyCalorieDiary.Tests.csproj" />
+  <Project Path="MyCalorieDiary/MyCalorieDiary.csproj" />
+</Solution>
